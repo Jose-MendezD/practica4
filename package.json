@@ -1,0 +1,11 @@
+{
+  "name": "laboratorio 4",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
